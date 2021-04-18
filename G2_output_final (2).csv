@@ -1,0 +1,980 @@
+Year,Product,Region,Month,SUM(Quantity),SUM(OrderTotal)
+2012,Blue Rock Candy,Eastern,1,25,11650
+2012,Blue Rock Candy,Eastern,2,39,18174
+2012,Blue Rock Candy,Eastern,3,32,14912
+2012,Blue Rock Candy,Eastern,6,80,37280
+2012,Blue Rock Candy,Midwest,1,48,22368
+2012,Blue Rock Candy,Midwest,2,12,5592
+2012,Blue Rock Candy,Midwest,5,17,7922
+2012,Blue Rock Candy,Midwest,6,30,13980
+2012,Blue Rock Candy,Midwest,7,35,16310
+2012,Blue Rock Candy,Midwest,8,23,10718
+2012,Blue Rock Candy,Midwest,11,35,16310
+2012,Blue Rock Candy,Midwest,12,34,15844
+2012,Blue Rock Candy,Southeast,1,2,932
+2012,Blue Rock Candy,Southeast,2,54,25164
+2012,Blue Rock Candy,Southeast,5,13,6058
+2012,Blue Rock Candy,Southeast,6,39,18174
+2012,Blue Rock Candy,Southeast,7,34,15844
+2012,Blue Rock Candy,Southeast,9,21,9786
+2012,Blue Rock Candy,Southeast,10,69,32154
+2012,Blue Rock Candy,Western,1,48,22368
+2012,Blue Rock Candy,Western,3,0,0
+2012,Blue Rock Candy,Western,4,20,9320
+2012,Blue Rock Candy,Western,5,18,8388
+2012,Blue Rock Candy,Western,7,2,932
+2012,Blue Rock Candy,Western,10,32,14912
+2012,Blue Rock Candy,Western,11,19,8854
+2013,Blue Rock Candy,Eastern,2,112,54768
+2013,Blue Rock Candy,Eastern,3,65,31785
+2013,Blue Rock Candy,Eastern,4,15,7335
+2013,Blue Rock Candy,Eastern,5,38,18582
+2013,Blue Rock Candy,Eastern,6,4,1956
+2013,Blue Rock Candy,Eastern,8,75,36675
+2013,Blue Rock Candy,Eastern,9,50,24450
+2013,Blue Rock Candy,Eastern,10,51,24939
+2013,Blue Rock Candy,Eastern,11,96,46944
+2013,Blue Rock Candy,Midwest,3,44,21516
+2013,Blue Rock Candy,Midwest,6,53,25917
+2013,Blue Rock Candy,Midwest,8,147,71883
+2013,Blue Rock Candy,Midwest,10,64,31296
+2013,Blue Rock Candy,Southeast,5,42,20538
+2013,Blue Rock Candy,Southeast,10,24,11736
+2013,Blue Rock Candy,Southeast,11,23,11247
+2013,Blue Rock Candy,Southeast,12,32,15648
+2013,Blue Rock Candy,Western,2,33,16137
+2013,Blue Rock Candy,Western,6,27,13203
+2013,Blue Rock Candy,Western,7,17,8313
+2013,Blue Rock Candy,Western,9,112,54768
+2013,Blue Rock Candy,Western,10,23,11247
+2014,Blue Rock Candy,Eastern,1,55,28215
+2014,Blue Rock Candy,Eastern,4,36,18468
+2014,Blue Rock Candy,Eastern,5,162,78027
+2014,Blue Rock Candy,Eastern,6,14,7182
+2014,Blue Rock Candy,Eastern,10,114,53660
+2014,Blue Rock Candy,Midwest,2,25,12825
+2014,Blue Rock Candy,Midwest,4,63,32319
+2014,Blue Rock Candy,Midwest,5,44,22572
+2014,Blue Rock Candy,Midwest,6,3,1539
+2014,Blue Rock Candy,Midwest,9,51,23547
+2014,Blue Rock Candy,Midwest,10,9,4617
+2014,Blue Rock Candy,Midwest,11,74,35602
+2014,Blue Rock Candy,Southeast,6,11,5643
+2014,Blue Rock Candy,Southeast,8,18,9234
+2014,Blue Rock Candy,Southeast,9,13,6669
+2014,Blue Rock Candy,Western,2,22,11286
+2014,Blue Rock Candy,Western,3,63,29292
+2014,Blue Rock Candy,Western,6,136,62792
+2014,Blue Rock Candy,Western,9,1,513
+2012,Crocodile Tears,Eastern,1,45,12690
+2012,Crocodile Tears,Eastern,3,23,6486
+2012,Crocodile Tears,Eastern,4,61,17202
+2012,Crocodile Tears,Eastern,5,26,7332
+2012,Crocodile Tears,Eastern,7,32,9024
+2012,Crocodile Tears,Eastern,8,43,12126
+2012,Crocodile Tears,Eastern,9,28,7896
+2012,Crocodile Tears,Eastern,10,22,6204
+2012,Crocodile Tears,Eastern,11,40,11280
+2012,Crocodile Tears,Midwest,1,25,7050
+2012,Crocodile Tears,Midwest,2,23,6486
+2012,Crocodile Tears,Midwest,4,32,9024
+2012,Crocodile Tears,Midwest,7,5,1410
+2012,Crocodile Tears,Midwest,9,11,3102
+2012,Crocodile Tears,Midwest,12,76,21432
+2012,Crocodile Tears,Southeast,2,77,21714
+2012,Crocodile Tears,Southeast,7,36,10152
+2012,Crocodile Tears,Southeast,8,4,1128
+2012,Crocodile Tears,Southeast,9,8,2256
+2012,Crocodile Tears,Southeast,12,70,19740
+2012,Crocodile Tears,Western,1,4,1128
+2012,Crocodile Tears,Western,2,72,20304
+2012,Crocodile Tears,Western,4,22,6204
+2012,Crocodile Tears,Western,6,35,9870
+2012,Crocodile Tears,Western,7,64,18048
+2012,Crocodile Tears,Western,8,6,1692
+2012,Crocodile Tears,Western,10,25,7050
+2012,Crocodile Tears,Western,11,35,9870
+2012,Crocodile Tears,Western,12,20,5640
+2013,Crocodile Tears,Eastern,2,57,16701
+2013,Crocodile Tears,Eastern,3,23,6739
+2013,Crocodile Tears,Eastern,4,28,8204
+2013,Crocodile Tears,Eastern,5,58,16994
+2013,Crocodile Tears,Eastern,7,53,15529
+2013,Crocodile Tears,Eastern,9,37,10841
+2013,Crocodile Tears,Eastern,11,91,26663
+2013,Crocodile Tears,Eastern,12,46,13478
+2013,Crocodile Tears,Midwest,1,49,14357
+2013,Crocodile Tears,Midwest,2,35,10255
+2013,Crocodile Tears,Midwest,3,51,14943
+2013,Crocodile Tears,Midwest,4,37,10841
+2013,Crocodile Tears,Midwest,7,31,9083
+2013,Crocodile Tears,Midwest,8,26,7618
+2013,Crocodile Tears,Midwest,9,80,23440
+2013,Crocodile Tears,Midwest,11,3,879
+2013,Crocodile Tears,Midwest,12,28,8204
+2013,Crocodile Tears,Southeast,1,16,4688
+2013,Crocodile Tears,Southeast,5,48,14064
+2013,Crocodile Tears,Southeast,9,39,11427
+2013,Crocodile Tears,Western,2,63,18459
+2013,Crocodile Tears,Western,4,66,19338
+2013,Crocodile Tears,Western,6,56,16408
+2013,Crocodile Tears,Western,7,51,14943
+2013,Crocodile Tears,Western,9,27,7911
+2013,Crocodile Tears,Western,10,77,22561
+2013,Crocodile Tears,Western,11,166,48638
+2013,Crocodile Tears,Western,12,82,24026
+2014,Crocodile Tears,Eastern,2,38,11020
+2014,Crocodile Tears,Eastern,3,49,12789
+2014,Crocodile Tears,Eastern,4,55,14732
+2014,Crocodile Tears,Eastern,5,47,12267
+2014,Crocodile Tears,Eastern,6,15,4350
+2014,Crocodile Tears,Eastern,8,43,11223
+2014,Crocodile Tears,Eastern,9,93,24273
+2014,Crocodile Tears,Eastern,11,88,22968
+2014,Crocodile Tears,Eastern,12,59,15399
+2014,Crocodile Tears,Midwest,1,28,8120
+2014,Crocodile Tears,Midwest,2,42,10962
+2014,Crocodile Tears,Midwest,4,55,14355
+2014,Crocodile Tears,Midwest,8,14,4060
+2014,Crocodile Tears,Midwest,10,56,16240
+2014,Crocodile Tears,Midwest,11,140,37381
+2014,Crocodile Tears,Southeast,1,37,9657
+2014,Crocodile Tears,Southeast,3,11,3190
+2014,Crocodile Tears,Southeast,4,40,10440
+2014,Crocodile Tears,Southeast,5,22,6380
+2014,Crocodile Tears,Southeast,6,69,18705
+2014,Crocodile Tears,Southeast,7,70,19227
+2014,Crocodile Tears,Southeast,11,17,4930
+2014,Crocodile Tears,Western,2,19,5510
+2014,Crocodile Tears,Western,4,50,14500
+2014,Crocodile Tears,Western,5,46,12006
+2014,Crocodile Tears,Western,7,44,12760
+2014,Crocodile Tears,Western,8,100,27637
+2014,Crocodile Tears,Western,10,41,10701
+2014,Crocodile Tears,Western,11,90,24389
+2014,Crocodile Tears,Western,12,94,25955
+2012,Giant Gummies,Eastern,1,28,11872
+2012,Giant Gummies,Eastern,2,20,8480
+2012,Giant Gummies,Eastern,3,31,13144
+2012,Giant Gummies,Eastern,4,26,11024
+2012,Giant Gummies,Eastern,5,33,13992
+2012,Giant Gummies,Eastern,6,35,14840
+2012,Giant Gummies,Eastern,7,56,23744
+2012,Giant Gummies,Eastern,8,46,19504
+2012,Giant Gummies,Eastern,9,25,10600
+2012,Giant Gummies,Eastern,11,17,7208
+2012,Giant Gummies,Eastern,12,13,5512
+2012,Giant Gummies,Midwest,4,34,14416
+2012,Giant Gummies,Midwest,5,38,16112
+2012,Giant Gummies,Midwest,7,104,44096
+2012,Giant Gummies,Midwest,8,55,23320
+2012,Giant Gummies,Midwest,12,70,29680
+2012,Giant Gummies,Southeast,3,9,3816
+2012,Giant Gummies,Southeast,4,55,23320
+2012,Giant Gummies,Southeast,7,38,16112
+2012,Giant Gummies,Southeast,9,6,2544
+2012,Giant Gummies,Southeast,10,8,3392
+2012,Giant Gummies,Western,1,25,10600
+2012,Giant Gummies,Western,3,31,13144
+2012,Giant Gummies,Western,6,38,16112
+2012,Giant Gummies,Western,7,26,11024
+2012,Giant Gummies,Western,9,64,27136
+2012,Giant Gummies,Western,10,28,11872
+2013,Giant Gummies,Eastern,1,55,23540
+2013,Giant Gummies,Eastern,2,100,42800
+2013,Giant Gummies,Eastern,3,78,33384
+2013,Giant Gummies,Eastern,7,56,23968
+2013,Giant Gummies,Eastern,8,62,26536
+2013,Giant Gummies,Eastern,11,130,55640
+2013,Giant Gummies,Midwest,2,53,22684
+2013,Giant Gummies,Midwest,5,66,28248
+2013,Giant Gummies,Midwest,7,12,5136
+2013,Giant Gummies,Midwest,8,34,14552
+2013,Giant Gummies,Midwest,11,49,20972
+2013,Giant Gummies,Southeast,1,74,31672
+2013,Giant Gummies,Southeast,2,71,30388
+2013,Giant Gummies,Southeast,5,56,23968
+2013,Giant Gummies,Southeast,9,23,9844
+2013,Giant Gummies,Southeast,10,25,10700
+2013,Giant Gummies,Southeast,12,19,8132
+2013,Giant Gummies,Western,3,42,17976
+2013,Giant Gummies,Western,5,122,52216
+2013,Giant Gummies,Western,6,37,15836
+2013,Giant Gummies,Western,7,25,10700
+2013,Giant Gummies,Western,8,48,20544
+2013,Giant Gummies,Western,9,22,9416
+2013,Giant Gummies,Western,10,43,18404
+2014,Giant Gummies,Eastern,3,13,5564
+2014,Giant Gummies,Eastern,4,72,28847
+2014,Giant Gummies,Eastern,5,43,16564
+2014,Giant Gummies,Eastern,6,12,5136
+2014,Giant Gummies,Eastern,7,28,11984
+2014,Giant Gummies,Eastern,8,36,15408
+2014,Giant Gummies,Eastern,9,147,58464
+2014,Giant Gummies,Eastern,10,109,44512
+2014,Giant Gummies,Eastern,11,54,20801
+2014,Giant Gummies,Eastern,12,58,22342
+2014,Giant Gummies,Midwest,1,37,14252
+2014,Giant Gummies,Midwest,2,14,5992
+2014,Giant Gummies,Midwest,3,40,15408
+2014,Giant Gummies,Midwest,4,12,5136
+2014,Giant Gummies,Midwest,7,127,50290
+2014,Giant Gummies,Midwest,8,54,20801
+2014,Giant Gummies,Midwest,9,35,14980
+2014,Giant Gummies,Midwest,10,16,6848
+2014,Giant Gummies,Midwest,12,108,41602
+2014,Giant Gummies,Southeast,3,31,13268
+2014,Giant Gummies,Southeast,5,24,10272
+2014,Giant Gummies,Southeast,7,27,11556
+2014,Giant Gummies,Southeast,10,44,16949
+2014,Giant Gummies,Southeast,12,35,14980
+2014,Giant Gummies,Western,1,54,20801
+2014,Giant Gummies,Western,2,34,14552
+2014,Giant Gummies,Western,3,60,23583
+2014,Giant Gummies,Western,4,53,20416
+2014,Giant Gummies,Western,5,18,7704
+2014,Giant Gummies,Western,6,1,428
+2014,Giant Gummies,Western,7,125,51916
+2014,Giant Gummies,Western,8,67,26921
+2014,Giant Gummies,Western,9,31,13268
+2014,Giant Gummies,Western,11,35,14980
+2012,Green Lightning,Eastern,3,36,14616
+2012,Green Lightning,Eastern,5,0,0
+2012,Green Lightning,Eastern,6,3,1218
+2012,Green Lightning,Eastern,7,26,10556
+2012,Green Lightning,Eastern,8,11,4466
+2012,Green Lightning,Eastern,10,1,406
+2012,Green Lightning,Eastern,11,23,9338
+2012,Green Lightning,Eastern,12,52,21112
+2012,Green Lightning,Midwest,2,4,1624
+2012,Green Lightning,Midwest,4,68,27608
+2012,Green Lightning,Midwest,5,29,11774
+2012,Green Lightning,Midwest,6,11,4466
+2012,Green Lightning,Midwest,9,62,25172
+2012,Green Lightning,Midwest,10,28,11368
+2012,Green Lightning,Midwest,11,35,14210
+2012,Green Lightning,Midwest,12,33,13398
+2012,Green Lightning,Southeast,1,19,7714
+2012,Green Lightning,Southeast,2,23,9338
+2012,Green Lightning,Southeast,5,26,10556
+2012,Green Lightning,Southeast,9,13,5278
+2012,Green Lightning,Southeast,11,74,30044
+2012,Green Lightning,Southeast,12,4,1624
+2012,Green Lightning,Western,1,1,406
+2012,Green Lightning,Western,4,40,16240
+2012,Green Lightning,Western,5,74,30044
+2012,Green Lightning,Western,7,52,21112
+2012,Green Lightning,Western,8,12,4872
+2012,Green Lightning,Western,9,60,24360
+2012,Green Lightning,Western,11,13,5278
+2012,Green Lightning,Western,12,21,8526
+2013,Green Lightning,Eastern,1,130,51740
+2013,Green Lightning,Eastern,2,46,18308
+2013,Green Lightning,Eastern,4,19,7562
+2013,Green Lightning,Eastern,5,177,70446
+2013,Green Lightning,Eastern,7,46,18308
+2013,Green Lightning,Eastern,8,20,7960
+2013,Green Lightning,Eastern,9,87,34626
+2013,Green Lightning,Eastern,10,12,4776
+2013,Green Lightning,Eastern,11,28,11144
+2013,Green Lightning,Midwest,1,5,1990
+2013,Green Lightning,Midwest,2,33,13134
+2013,Green Lightning,Midwest,3,24,9552
+2013,Green Lightning,Midwest,4,93,37014
+2013,Green Lightning,Midwest,5,57,22686
+2013,Green Lightning,Midwest,6,31,12338
+2013,Green Lightning,Midwest,8,42,16716
+2013,Green Lightning,Midwest,10,22,8756
+2013,Green Lightning,Midwest,11,7,2786
+2013,Green Lightning,Southeast,2,33,13134
+2013,Green Lightning,Southeast,3,50,19900
+2013,Green Lightning,Southeast,4,11,4378
+2013,Green Lightning,Southeast,6,61,24278
+2013,Green Lightning,Southeast,12,37,14726
+2013,Green Lightning,Western,3,84,33432
+2013,Green Lightning,Western,4,40,15920
+2013,Green Lightning,Western,5,65,25870
+2013,Green Lightning,Western,6,19,7562
+2013,Green Lightning,Western,9,21,8358
+2013,Green Lightning,Western,10,46,18308
+2013,Green Lightning,Western,11,40,15920
+2014,Green Lightning,Eastern,1,36,14040
+2014,Green Lightning,Eastern,2,42,14742
+2014,Green Lightning,Eastern,6,68,24687
+2014,Green Lightning,Eastern,7,9,3510
+2014,Green Lightning,Eastern,8,46,16497
+2014,Green Lightning,Eastern,10,68,24687
+2014,Green Lightning,Eastern,11,41,14391
+2014,Green Lightning,Eastern,12,89,34710
+2014,Green Lightning,Midwest,1,25,9750
+2014,Green Lightning,Midwest,3,54,18954
+2014,Green Lightning,Midwest,4,35,13650
+2014,Green Lightning,Midwest,6,26,10140
+2014,Green Lightning,Midwest,12,29,11310
+2014,Green Lightning,Southeast,2,68,24570
+2014,Green Lightning,Southeast,4,79,28821
+2014,Green Lightning,Southeast,6,58,20358
+2014,Green Lightning,Southeast,10,17,6630
+2014,Green Lightning,Western,1,5,1950
+2014,Green Lightning,Western,2,11,4290
+2014,Green Lightning,Western,3,2,780
+2014,Green Lightning,Western,4,45,16107
+2014,Green Lightning,Western,6,45,15795
+2014,Green Lightning,Western,7,44,15444
+2014,Green Lightning,Western,8,24,9360
+2014,Green Lightning,Western,9,34,13260
+2014,Green Lightning,Western,11,18,7020
+2012,Grey Gummies,Eastern,3,8,3192
+2012,Grey Gummies,Eastern,6,73,29127
+2012,Grey Gummies,Eastern,8,28,11172
+2012,Grey Gummies,Eastern,9,28,11172
+2012,Grey Gummies,Eastern,10,24,9576
+2012,Grey Gummies,Eastern,11,22,8778
+2012,Grey Gummies,Midwest,1,27,10773
+2012,Grey Gummies,Midwest,4,64,25536
+2012,Grey Gummies,Midwest,5,89,35511
+2012,Grey Gummies,Midwest,6,74,29526
+2012,Grey Gummies,Midwest,8,5,1995
+2012,Grey Gummies,Midwest,10,53,21147
+2012,Grey Gummies,Midwest,11,34,13566
+2012,Grey Gummies,Midwest,12,25,9975
+2012,Grey Gummies,Southeast,1,30,11970
+2012,Grey Gummies,Southeast,2,64,25536
+2012,Grey Gummies,Southeast,9,20,7980
+2012,Grey Gummies,Southeast,10,8,3192
+2012,Grey Gummies,Western,1,8,3192
+2012,Grey Gummies,Western,3,2,798
+2012,Grey Gummies,Western,4,13,5187
+2012,Grey Gummies,Western,5,53,21147
+2012,Grey Gummies,Western,6,23,9177
+2012,Grey Gummies,Western,7,22,8778
+2012,Grey Gummies,Western,12,102,40698
+2013,Grey Gummies,Eastern,1,22,8778
+2013,Grey Gummies,Eastern,2,71,28329
+2013,Grey Gummies,Eastern,3,114,45486
+2013,Grey Gummies,Eastern,4,55,21945
+2013,Grey Gummies,Eastern,8,43,17157
+2013,Grey Gummies,Eastern,9,111,44289
+2013,Grey Gummies,Eastern,10,98,39102
+2013,Grey Gummies,Midwest,2,37,14763
+2013,Grey Gummies,Midwest,3,57,22743
+2013,Grey Gummies,Midwest,5,33,13167
+2013,Grey Gummies,Midwest,7,93,37107
+2013,Grey Gummies,Midwest,8,48,19152
+2013,Grey Gummies,Midwest,9,50,19950
+2013,Grey Gummies,Midwest,10,26,10374
+2013,Grey Gummies,Midwest,11,49,19551
+2013,Grey Gummies,Southeast,7,49,19551
+2013,Grey Gummies,Southeast,10,38,15162
+2013,Grey Gummies,Southeast,11,50,19950
+2013,Grey Gummies,Western,1,6,2394
+2013,Grey Gummies,Western,2,57,22743
+2013,Grey Gummies,Western,3,29,11571
+2013,Grey Gummies,Western,4,101,40299
+2013,Grey Gummies,Western,5,56,22344
+2013,Grey Gummies,Western,6,10,3990
+2013,Grey Gummies,Western,8,48,19152
+2013,Grey Gummies,Western,11,54,21546
+2014,Grey Gummies,Eastern,1,11,4389
+2014,Grey Gummies,Eastern,3,90,32319
+2014,Grey Gummies,Eastern,4,32,12768
+2014,Grey Gummies,Eastern,5,35,13965
+2014,Grey Gummies,Eastern,10,23,9177
+2014,Grey Gummies,Eastern,11,75,28409
+2014,Grey Gummies,Eastern,12,13,5187
+2014,Grey Gummies,Midwest,2,154,55302
+2014,Grey Gummies,Midwest,3,50,17955
+2014,Grey Gummies,Midwest,4,69,25895
+2014,Grey Gummies,Midwest,6,24,9576
+2014,Grey Gummies,Midwest,8,57,20469
+2014,Grey Gummies,Midwest,11,52,18673
+2014,Grey Gummies,Midwest,12,17,6783
+2014,Grey Gummies,Southeast,1,43,15441
+2014,Grey Gummies,Southeast,3,64,23182
+2014,Grey Gummies,Southeast,4,60,21546
+2014,Grey Gummies,Southeast,5,13,5187
+2014,Grey Gummies,Southeast,6,57,20469
+2014,Grey Gummies,Southeast,7,3,1197
+2014,Grey Gummies,Southeast,8,77,28688
+2014,Grey Gummies,Southeast,11,72,26613
+2014,Grey Gummies,Western,1,74,27730
+2014,Grey Gummies,Western,2,2,798
+2014,Grey Gummies,Western,5,1,399
+2014,Grey Gummies,Western,6,51,18673
+2014,Grey Gummies,Western,7,73,27411
+2014,Grey Gummies,Western,8,28,11172
+2014,Grey Gummies,Western,9,56,20389
+2014,Grey Gummies,Western,10,73,27371
+2014,Grey Gummies,Western,11,6,2394
+2012,Nap Be Gone,Eastern,2,9,3807
+2012,Nap Be Gone,Eastern,4,54,22842
+2012,Nap Be Gone,Eastern,5,12,5076
+2012,Nap Be Gone,Eastern,6,39,16497
+2012,Nap Be Gone,Eastern,7,56,23688
+2012,Nap Be Gone,Eastern,9,40,16920
+2012,Nap Be Gone,Eastern,10,26,10998
+2012,Nap Be Gone,Eastern,11,12,5076
+2012,Nap Be Gone,Midwest,2,2,846
+2012,Nap Be Gone,Midwest,3,26,10998
+2012,Nap Be Gone,Midwest,4,15,6345
+2012,Nap Be Gone,Midwest,7,22,9306
+2012,Nap Be Gone,Midwest,9,25,10575
+2012,Nap Be Gone,Midwest,10,25,10575
+2012,Nap Be Gone,Midwest,11,4,1692
+2012,Nap Be Gone,Midwest,12,61,25803
+2012,Nap Be Gone,Southeast,2,10,4230
+2012,Nap Be Gone,Southeast,5,15,6345
+2012,Nap Be Gone,Southeast,7,5,2115
+2012,Nap Be Gone,Southeast,10,51,21573
+2012,Nap Be Gone,Southeast,11,8,3384
+2012,Nap Be Gone,Western,1,16,6768
+2012,Nap Be Gone,Western,4,1,423
+2012,Nap Be Gone,Western,5,47,19881
+2012,Nap Be Gone,Western,7,17,7191
+2012,Nap Be Gone,Western,8,8,3384
+2012,Nap Be Gone,Western,9,18,7614
+2012,Nap Be Gone,Western,10,16,6768
+2012,Nap Be Gone,Western,11,13,5499
+2013,Nap Be Gone,Eastern,5,64,27328
+2013,Nap Be Gone,Eastern,6,48,20496
+2013,Nap Be Gone,Eastern,7,44,18788
+2013,Nap Be Gone,Eastern,8,14,5978
+2013,Nap Be Gone,Eastern,9,124,52948
+2013,Nap Be Gone,Eastern,11,17,7259
+2013,Nap Be Gone,Eastern,12,20,8540
+2013,Nap Be Gone,Midwest,1,35,14945
+2013,Nap Be Gone,Midwest,2,30,12810
+2013,Nap Be Gone,Midwest,3,57,24339
+2013,Nap Be Gone,Midwest,6,72,30744
+2013,Nap Be Gone,Midwest,7,9,3843
+2013,Nap Be Gone,Midwest,8,53,22631
+2013,Nap Be Gone,Midwest,11,26,11102
+2013,Nap Be Gone,Midwest,12,74,31598
+2013,Nap Be Gone,Southeast,1,12,5124
+2013,Nap Be Gone,Southeast,5,26,11102
+2013,Nap Be Gone,Southeast,7,16,6832
+2013,Nap Be Gone,Southeast,9,66,28182
+2013,Nap Be Gone,Southeast,10,80,34160
+2013,Nap Be Gone,Western,1,104,44408
+2013,Nap Be Gone,Western,2,43,18361
+2013,Nap Be Gone,Western,3,28,11956
+2013,Nap Be Gone,Western,4,24,10248
+2013,Nap Be Gone,Western,5,37,15799
+2013,Nap Be Gone,Western,6,14,5978
+2013,Nap Be Gone,Western,7,92,39284
+2013,Nap Be Gone,Western,8,42,17934
+2013,Nap Be Gone,Western,10,33,14091
+2014,Nap Be Gone,Eastern,1,75,30957
+2014,Nap Be Gone,Eastern,2,15,6720
+2014,Nap Be Gone,Eastern,3,17,7616
+2014,Nap Be Gone,Eastern,5,53,21549
+2014,Nap Be Gone,Eastern,6,38,15322
+2014,Nap Be Gone,Eastern,7,36,16128
+2014,Nap Be Gone,Eastern,11,70,29613
+2014,Nap Be Gone,Eastern,12,18,8064
+2014,Nap Be Gone,Midwest,2,12,5376
+2014,Nap Be Gone,Midwest,4,51,20563
+2014,Nap Be Gone,Midwest,5,6,2688
+2014,Nap Be Gone,Midwest,8,66,27642
+2014,Nap Be Gone,Midwest,11,60,24192
+2014,Nap Be Gone,Midwest,12,75,31181
+2014,Nap Be Gone,Southeast,3,14,6272
+2014,Nap Be Gone,Southeast,4,8,3584
+2014,Nap Be Gone,Southeast,5,13,5824
+2014,Nap Be Gone,Southeast,7,18,8064
+2014,Nap Be Gone,Southeast,9,60,24192
+2014,Nap Be Gone,Southeast,10,15,6720
+2014,Nap Be Gone,Southeast,11,16,7168
+2014,Nap Be Gone,Western,1,76,31987
+2014,Nap Be Gone,Western,2,58,23386
+2014,Nap Be Gone,Western,4,60,24192
+2014,Nap Be Gone,Western,5,132,53939
+2014,Nap Be Gone,Western,8,97,39110
+2014,Nap Be Gone,Western,9,47,18950
+2014,Nap Be Gone,Western,10,8,3584
+2014,Nap Be Gone,Western,11,95,40141
+2012,Orange Creepies,Eastern,1,23,10396
+2012,Orange Creepies,Eastern,2,27,12204
+2012,Orange Creepies,Eastern,3,5,2260
+2012,Orange Creepies,Eastern,4,8,3616
+2012,Orange Creepies,Eastern,6,25,11300
+2012,Orange Creepies,Eastern,8,15,6780
+2012,Orange Creepies,Eastern,10,63,28476
+2012,Orange Creepies,Eastern,12,1,452
+2012,Orange Creepies,Midwest,1,13,5876
+2012,Orange Creepies,Midwest,3,96,43392
+2012,Orange Creepies,Midwest,4,28,12656
+2012,Orange Creepies,Midwest,8,39,17628
+2012,Orange Creepies,Midwest,9,71,32092
+2012,Orange Creepies,Midwest,10,29,13108
+2012,Orange Creepies,Midwest,12,13,5876
+2012,Orange Creepies,Southeast,4,10,4520
+2012,Orange Creepies,Southeast,5,34,15368
+2012,Orange Creepies,Southeast,6,39,17628
+2012,Orange Creepies,Southeast,9,24,10848
+2012,Orange Creepies,Southeast,12,36,16272
+2012,Orange Creepies,Western,1,26,11752
+2012,Orange Creepies,Western,3,36,16272
+2012,Orange Creepies,Western,8,15,6780
+2012,Orange Creepies,Western,9,38,17176
+2012,Orange Creepies,Western,11,5,2260
+2013,Orange Creepies,Eastern,4,9,4194
+2013,Orange Creepies,Eastern,5,66,30756
+2013,Orange Creepies,Eastern,7,38,17708
+2013,Orange Creepies,Eastern,8,28,13048
+2013,Orange Creepies,Eastern,9,63,29358
+2013,Orange Creepies,Eastern,10,13,6058
+2013,Orange Creepies,Eastern,11,1,466
+2013,Orange Creepies,Midwest,1,54,25164
+2013,Orange Creepies,Midwest,2,43,20038
+2013,Orange Creepies,Midwest,4,32,14912
+2013,Orange Creepies,Midwest,5,114,53124
+2013,Orange Creepies,Midwest,9,31,14446
+2013,Orange Creepies,Midwest,10,40,18640
+2013,Orange Creepies,Midwest,12,79,36814
+2013,Orange Creepies,Southeast,2,14,6524
+2013,Orange Creepies,Southeast,3,90,41940
+2013,Orange Creepies,Southeast,4,39,18174
+2013,Orange Creepies,Southeast,6,46,21436
+2013,Orange Creepies,Southeast,9,80,37280
+2013,Orange Creepies,Western,2,32,14912
+2013,Orange Creepies,Western,3,56,26096
+2013,Orange Creepies,Western,4,9,4194
+2013,Orange Creepies,Western,5,37,17242
+2013,Orange Creepies,Western,9,56,26096
+2013,Orange Creepies,Western,10,39,18174
+2013,Orange Creepies,Western,12,43,20038
+2014,Orange Creepies,Eastern,1,66,28286
+2014,Orange Creepies,Eastern,2,7,3262
+2014,Orange Creepies,Eastern,3,8,3728
+2014,Orange Creepies,Eastern,4,12,5592
+2014,Orange Creepies,Eastern,5,32,14912
+2014,Orange Creepies,Eastern,7,55,23067
+2014,Orange Creepies,Eastern,8,12,5592
+2014,Orange Creepies,Eastern,9,6,2796
+2014,Orange Creepies,Eastern,10,35,16310
+2014,Orange Creepies,Eastern,11,140,61093
+2014,Orange Creepies,Eastern,12,47,19712
+2014,Orange Creepies,Midwest,3,53,22228
+2014,Orange Creepies,Midwest,4,55,23067
+2014,Orange Creepies,Midwest,7,8,3728
+2014,Orange Creepies,Midwest,11,47,19712
+2014,Orange Creepies,Midwest,12,58,24325
+2014,Orange Creepies,Southeast,1,58,24325
+2014,Orange Creepies,Southeast,5,44,18454
+2014,Orange Creepies,Southeast,6,19,8854
+2014,Orange Creepies,Southeast,7,74,32434
+2014,Orange Creepies,Southeast,8,39,16357
+2014,Orange Creepies,Southeast,12,39,16357
+2014,Orange Creepies,Western,1,15,6990
+2014,Orange Creepies,Western,2,45,18873
+2014,Orange Creepies,Western,3,56,23486
+2014,Orange Creepies,Western,5,60,26189
+2014,Orange Creepies,Western,8,8,3728
+2014,Orange Creepies,Western,9,60,25164
+2012,Panda Gummies,Eastern,1,33,4818
+2012,Panda Gummies,Eastern,3,32,4672
+2012,Panda Gummies,Eastern,5,28,4088
+2012,Panda Gummies,Eastern,6,38,5548
+2012,Panda Gummies,Eastern,8,71,10366
+2012,Panda Gummies,Eastern,9,24,3504
+2012,Panda Gummies,Eastern,11,90,13140
+2012,Panda Gummies,Eastern,12,51,7446
+2012,Panda Gummies,Midwest,1,51,7446
+2012,Panda Gummies,Midwest,3,26,3796
+2012,Panda Gummies,Midwest,5,18,2628
+2012,Panda Gummies,Midwest,6,15,2190
+2012,Panda Gummies,Midwest,7,38,5548
+2012,Panda Gummies,Midwest,8,17,2482
+2012,Panda Gummies,Midwest,12,40,5840
+2012,Panda Gummies,Southeast,2,53,7738
+2012,Panda Gummies,Southeast,3,12,1752
+2012,Panda Gummies,Southeast,7,24,3504
+2012,Panda Gummies,Southeast,8,7,1022
+2012,Panda Gummies,Southeast,10,39,5694
+2012,Panda Gummies,Southeast,11,17,2482
+2012,Panda Gummies,Southeast,12,22,3212
+2012,Panda Gummies,Western,1,31,4526
+2012,Panda Gummies,Western,2,3,438
+2012,Panda Gummies,Western,3,18,2628
+2012,Panda Gummies,Western,5,65,9490
+2012,Panda Gummies,Western,6,5,730
+2012,Panda Gummies,Western,7,55,8030
+2013,Panda Gummies,Eastern,2,49,7301
+2013,Panda Gummies,Eastern,4,23,3427
+2013,Panda Gummies,Eastern,5,46,6854
+2013,Panda Gummies,Eastern,6,45,6705
+2013,Panda Gummies,Eastern,7,52,7748
+2013,Panda Gummies,Eastern,8,77,11473
+2013,Panda Gummies,Eastern,9,17,2533
+2013,Panda Gummies,Eastern,11,78,11622
+2013,Panda Gummies,Eastern,12,33,4917
+2013,Panda Gummies,Midwest,1,44,6556
+2013,Panda Gummies,Midwest,5,47,7003
+2013,Panda Gummies,Midwest,6,79,11771
+2013,Panda Gummies,Midwest,7,43,6407
+2013,Panda Gummies,Midwest,8,71,10579
+2013,Panda Gummies,Midwest,9,40,5960
+2013,Panda Gummies,Midwest,10,187,27863
+2013,Panda Gummies,Midwest,11,56,8344
+2013,Panda Gummies,Southeast,7,88,13112
+2013,Panda Gummies,Southeast,12,56,8344
+2013,Panda Gummies,Western,1,13,1937
+2013,Panda Gummies,Western,4,8,1192
+2013,Panda Gummies,Western,6,81,12069
+2013,Panda Gummies,Western,7,51,7599
+2013,Panda Gummies,Western,8,69,10281
+2013,Panda Gummies,Western,9,48,7152
+2013,Panda Gummies,Western,11,42,6258
+2013,Panda Gummies,Western,12,55,8195
+2014,Panda Gummies,Eastern,1,61,8392
+2014,Panda Gummies,Eastern,2,38,5624
+2014,Panda Gummies,Eastern,4,27,3996
+2014,Panda Gummies,Eastern,5,48,6394
+2014,Panda Gummies,Eastern,7,76,10360
+2014,Panda Gummies,Eastern,8,102,13587
+2014,Panda Gummies,Eastern,11,50,7400
+2014,Panda Gummies,Eastern,12,0,0
+2014,Panda Gummies,Midwest,1,57,7592
+2014,Panda Gummies,Midwest,3,34,5032
+2014,Panda Gummies,Midwest,4,15,2220
+2014,Panda Gummies,Midwest,5,16,2368
+2014,Panda Gummies,Midwest,6,59,7859
+2014,Panda Gummies,Midwest,8,31,4588
+2014,Panda Gummies,Midwest,9,2,296
+2014,Panda Gummies,Midwest,10,2,296
+2014,Panda Gummies,Midwest,11,16,2368
+2014,Panda Gummies,Southeast,1,51,6793
+2014,Panda Gummies,Southeast,2,7,1036
+2014,Panda Gummies,Southeast,8,92,12254
+2014,Panda Gummies,Southeast,9,19,2812
+2014,Panda Gummies,Southeast,10,1,148
+2014,Panda Gummies,Western,2,83,11559
+2014,Panda Gummies,Western,3,60,7992
+2014,Panda Gummies,Western,4,116,15452
+2014,Panda Gummies,Western,7,19,2812
+2014,Panda Gummies,Western,8,22,3256
+2014,Panda Gummies,Western,10,58,7726
+2014,Panda Gummies,Western,12,1,148
+2012,Pink Bubble Gum,Eastern,2,30,9540
+2012,Pink Bubble Gum,Eastern,4,26,8268
+2012,Pink Bubble Gum,Eastern,7,45,14310
+2012,Pink Bubble Gum,Eastern,9,46,14628
+2012,Pink Bubble Gum,Eastern,11,40,12720
+2012,Pink Bubble Gum,Midwest,1,41,13038
+2012,Pink Bubble Gum,Midwest,2,6,1908
+2012,Pink Bubble Gum,Midwest,3,117,37206
+2012,Pink Bubble Gum,Midwest,4,26,8268
+2012,Pink Bubble Gum,Midwest,6,6,1908
+2012,Pink Bubble Gum,Midwest,9,33,10494
+2012,Pink Bubble Gum,Midwest,12,28,8904
+2012,Pink Bubble Gum,Southeast,5,59,18762
+2012,Pink Bubble Gum,Southeast,6,10,3180
+2012,Pink Bubble Gum,Southeast,8,1,318
+2012,Pink Bubble Gum,Southeast,9,1,318
+2012,Pink Bubble Gum,Southeast,12,40,12720
+2012,Pink Bubble Gum,Western,3,1,318
+2012,Pink Bubble Gum,Western,4,56,17808
+2012,Pink Bubble Gum,Western,7,58,18444
+2012,Pink Bubble Gum,Western,9,62,19716
+2012,Pink Bubble Gum,Western,11,23,7314
+2012,Pink Bubble Gum,Western,12,74,23532
+2013,Pink Bubble Gum,Eastern,1,20,6360
+2013,Pink Bubble Gum,Eastern,2,6,1908
+2013,Pink Bubble Gum,Eastern,3,67,21306
+2013,Pink Bubble Gum,Eastern,5,66,20988
+2013,Pink Bubble Gum,Eastern,7,34,10812
+2013,Pink Bubble Gum,Eastern,9,91,28938
+2013,Pink Bubble Gum,Eastern,10,119,37842
+2013,Pink Bubble Gum,Eastern,12,13,4134
+2013,Pink Bubble Gum,Midwest,1,41,13038
+2013,Pink Bubble Gum,Midwest,4,8,2544
+2013,Pink Bubble Gum,Midwest,5,25,7950
+2013,Pink Bubble Gum,Midwest,6,9,2862
+2013,Pink Bubble Gum,Midwest,8,63,20034
+2013,Pink Bubble Gum,Midwest,10,60,19080
+2013,Pink Bubble Gum,Midwest,12,6,1908
+2013,Pink Bubble Gum,Southeast,1,23,7314
+2013,Pink Bubble Gum,Southeast,2,27,8586
+2013,Pink Bubble Gum,Southeast,6,38,12084
+2013,Pink Bubble Gum,Southeast,7,54,17172
+2013,Pink Bubble Gum,Western,1,15,4770
+2013,Pink Bubble Gum,Western,3,53,16854
+2013,Pink Bubble Gum,Western,5,12,3816
+2013,Pink Bubble Gum,Western,6,0,0
+2013,Pink Bubble Gum,Western,9,50,15900
+2013,Pink Bubble Gum,Western,11,73,23214
+2013,Pink Bubble Gum,Western,12,6,1908
+2014,Pink Bubble Gum,Eastern,2,32,10368
+2014,Pink Bubble Gum,Eastern,5,36,11664
+2014,Pink Bubble Gum,Eastern,6,67,19991
+2014,Pink Bubble Gum,Eastern,7,20,6480
+2014,Pink Bubble Gum,Eastern,9,99,30359
+2014,Pink Bubble Gum,Eastern,10,58,16913
+2014,Pink Bubble Gum,Eastern,11,83,25045
+2014,Pink Bubble Gum,Midwest,1,26,8424
+2014,Pink Bubble Gum,Midwest,2,74,22550
+2014,Pink Bubble Gum,Midwest,4,32,10368
+2014,Pink Bubble Gum,Midwest,5,37,10789
+2014,Pink Bubble Gum,Midwest,6,34,11016
+2014,Pink Bubble Gum,Midwest,7,10,3240
+2014,Pink Bubble Gum,Midwest,9,55,16038
+2014,Pink Bubble Gum,Midwest,10,55,17820
+2014,Pink Bubble Gum,Midwest,11,52,15163
+2014,Pink Bubble Gum,Midwest,12,54,15746
+2014,Pink Bubble Gum,Southeast,1,49,14288
+2014,Pink Bubble Gum,Southeast,3,128,37811
+2014,Pink Bubble Gum,Southeast,4,19,6156
+2014,Pink Bubble Gum,Southeast,10,33,10692
+2014,Pink Bubble Gum,Southeast,12,14,4536
+2014,Pink Bubble Gum,Western,1,53,15487
+2014,Pink Bubble Gum,Western,3,39,12636
+2014,Pink Bubble Gum,Western,4,78,23749
+2014,Pink Bubble Gum,Western,5,54,17496
+2014,Pink Bubble Gum,Western,6,42,12247
+2014,Pink Bubble Gum,Western,7,55,16038
+2014,Pink Bubble Gum,Western,8,43,12539
+2014,Pink Bubble Gum,Western,9,7,2268
+2014,Pink Bubble Gum,Western,10,24,7776
+2014,Pink Bubble Gum,Western,11,12,3888
+2014,Pink Bubble Gum,Western,12,9,2916
+2012,Purple Pain,Eastern,1,20,6960
+2012,Purple Pain,Eastern,2,43,14964
+2012,Purple Pain,Eastern,3,72,25056
+2012,Purple Pain,Eastern,6,39,13572
+2012,Purple Pain,Eastern,8,75,26100
+2012,Purple Pain,Eastern,11,26,9048
+2012,Purple Pain,Eastern,12,33,11484
+2012,Purple Pain,Midwest,1,26,9048
+2012,Purple Pain,Midwest,4,15,5220
+2012,Purple Pain,Midwest,9,40,13920
+2012,Purple Pain,Southeast,1,37,12876
+2012,Purple Pain,Southeast,2,25,8700
+2012,Purple Pain,Southeast,3,7,2436
+2012,Purple Pain,Southeast,6,50,17400
+2012,Purple Pain,Southeast,7,39,13572
+2012,Purple Pain,Southeast,8,1,348
+2012,Purple Pain,Southeast,9,40,13920
+2012,Purple Pain,Western,3,13,4524
+2012,Purple Pain,Western,4,16,5568
+2012,Purple Pain,Western,7,20,6960
+2012,Purple Pain,Western,8,24,8352
+2012,Purple Pain,Western,9,19,6612
+2012,Purple Pain,Western,11,51,17748
+2012,Purple Pain,Western,12,1,348
+2013,Purple Pain,Eastern,4,7,2555
+2013,Purple Pain,Eastern,5,37,13505
+2013,Purple Pain,Eastern,7,83,30295
+2013,Purple Pain,Eastern,8,15,5475
+2013,Purple Pain,Eastern,9,46,16790
+2013,Purple Pain,Eastern,10,44,16060
+2013,Purple Pain,Eastern,12,79,28835
+2013,Purple Pain,Midwest,2,20,7300
+2013,Purple Pain,Midwest,3,24,8760
+2013,Purple Pain,Midwest,5,46,16790
+2013,Purple Pain,Midwest,9,54,19710
+2013,Purple Pain,Midwest,10,17,6205
+2013,Purple Pain,Southeast,6,87,31755
+2013,Purple Pain,Southeast,7,14,5110
+2013,Purple Pain,Western,1,18,6570
+2013,Purple Pain,Western,3,27,9855
+2013,Purple Pain,Western,4,121,44165
+2013,Purple Pain,Western,7,28,10220
+2013,Purple Pain,Western,9,28,10220
+2013,Purple Pain,Western,10,20,7300
+2013,Purple Pain,Western,11,23,8395
+2013,Purple Pain,Western,12,105,38325
+2014,Purple Pain,Eastern,2,78,27195
+2014,Purple Pain,Eastern,4,56,20664
+2014,Purple Pain,Eastern,6,81,28118
+2014,Purple Pain,Eastern,7,39,12952
+2014,Purple Pain,Eastern,10,31,11439
+2014,Purple Pain,Eastern,11,107,35719
+2014,Purple Pain,Eastern,12,26,9594
+2014,Purple Pain,Midwest,3,20,7380
+2014,Purple Pain,Midwest,4,55,18376
+2014,Purple Pain,Midwest,6,1,369
+2014,Purple Pain,Midwest,9,20,7380
+2014,Purple Pain,Midwest,11,43,14280
+2014,Purple Pain,Midwest,12,37,12288
+2014,Purple Pain,Southeast,1,22,8118
+2014,Purple Pain,Southeast,4,31,11439
+2014,Purple Pain,Southeast,9,35,12915
+2014,Purple Pain,Southeast,11,8,2952
+2014,Purple Pain,Southeast,12,44,14612
+2014,Purple Pain,Western,7,25,9225
+2014,Purple Pain,Western,8,15,5535
+2014,Purple Pain,Western,9,55,18265
+2014,Purple Pain,Western,11,59,19594
+2014,Purple Pain,Western,12,76,26383
+2012,Red Hot Chili Peppers,Eastern,1,26,11180
+2012,Red Hot Chili Peppers,Eastern,2,34,14620
+2012,Red Hot Chili Peppers,Eastern,3,42,18060
+2012,Red Hot Chili Peppers,Eastern,4,28,12040
+2012,Red Hot Chili Peppers,Eastern,5,40,17200
+2012,Red Hot Chili Peppers,Eastern,6,34,14620
+2012,Red Hot Chili Peppers,Eastern,7,11,4730
+2012,Red Hot Chili Peppers,Eastern,10,25,10750
+2012,Red Hot Chili Peppers,Eastern,11,35,15050
+2012,Red Hot Chili Peppers,Eastern,12,8,3440
+2012,Red Hot Chili Peppers,Midwest,3,19,8170
+2012,Red Hot Chili Peppers,Midwest,5,26,11180
+2012,Red Hot Chili Peppers,Midwest,6,9,3870
+2012,Red Hot Chili Peppers,Midwest,8,49,21070
+2012,Red Hot Chili Peppers,Southeast,1,29,12470
+2012,Red Hot Chili Peppers,Southeast,3,16,6880
+2012,Red Hot Chili Peppers,Southeast,6,2,860
+2012,Red Hot Chili Peppers,Southeast,10,5,2150
+2012,Red Hot Chili Peppers,Western,1,22,9460
+2012,Red Hot Chili Peppers,Western,2,17,7310
+2012,Red Hot Chili Peppers,Western,3,68,29240
+2012,Red Hot Chili Peppers,Western,4,38,16340
+2012,Red Hot Chili Peppers,Western,6,9,3870
+2012,Red Hot Chili Peppers,Western,7,33,14190
+2012,Red Hot Chili Peppers,Western,10,39,16770
+2013,Red Hot Chili Peppers,Eastern,2,75,32550
+2013,Red Hot Chili Peppers,Eastern,3,36,15624
+2013,Red Hot Chili Peppers,Eastern,4,10,4340
+2013,Red Hot Chili Peppers,Eastern,6,91,39494
+2013,Red Hot Chili Peppers,Eastern,7,40,17360
+2013,Red Hot Chili Peppers,Eastern,8,44,19096
+2013,Red Hot Chili Peppers,Eastern,11,52,22568
+2013,Red Hot Chili Peppers,Eastern,12,29,12586
+2013,Red Hot Chili Peppers,Midwest,1,84,36456
+2013,Red Hot Chili Peppers,Midwest,2,95,41230
+2013,Red Hot Chili Peppers,Midwest,3,64,27776
+2013,Red Hot Chili Peppers,Midwest,5,40,17360
+2013,Red Hot Chili Peppers,Midwest,6,20,8680
+2013,Red Hot Chili Peppers,Midwest,7,50,21700
+2013,Red Hot Chili Peppers,Midwest,8,77,33418
+2013,Red Hot Chili Peppers,Midwest,10,14,6076
+2013,Red Hot Chili Peppers,Midwest,11,48,20832
+2013,Red Hot Chili Peppers,Midwest,12,34,14756
+2013,Red Hot Chili Peppers,Southeast,2,3,1302
+2013,Red Hot Chili Peppers,Southeast,4,18,7812
+2013,Red Hot Chili Peppers,Southeast,5,23,9982
+2013,Red Hot Chili Peppers,Southeast,7,37,16058
+2013,Red Hot Chili Peppers,Southeast,8,30,13020
+2013,Red Hot Chili Peppers,Southeast,11,34,14756
+2013,Red Hot Chili Peppers,Western,1,21,9114
+2013,Red Hot Chili Peppers,Western,2,4,1736
+2013,Red Hot Chili Peppers,Western,5,41,17794
+2013,Red Hot Chili Peppers,Western,7,54,23436
+2013,Red Hot Chili Peppers,Western,8,98,42532
+2013,Red Hot Chili Peppers,Western,10,99,42966
+2013,Red Hot Chili Peppers,Western,11,111,48174
+2013,Red Hot Chili Peppers,Western,12,39,16926
+2014,Red Hot Chili Peppers,Eastern,1,32,13600
+2014,Red Hot Chili Peppers,Eastern,2,51,19805
+2014,Red Hot Chili Peppers,Eastern,4,30,12750
+2014,Red Hot Chili Peppers,Eastern,6,162,62304
+2014,Red Hot Chili Peppers,Eastern,8,57,21802
+2014,Red Hot Chili Peppers,Eastern,10,7,2975
+2014,Red Hot Chili Peppers,Eastern,11,0,0
+2014,Red Hot Chili Peppers,Eastern,12,60,22950
+2014,Red Hot Chili Peppers,Midwest,2,59,22737
+2014,Red Hot Chili Peppers,Midwest,3,100,38250
+2014,Red Hot Chili Peppers,Midwest,4,57,21802
+2014,Red Hot Chili Peppers,Midwest,5,32,13600
+2014,Red Hot Chili Peppers,Midwest,7,32,13600
+2014,Red Hot Chili Peppers,Midwest,9,29,12325
+2014,Red Hot Chili Peppers,Midwest,10,49,18742
+2014,Red Hot Chili Peppers,Midwest,12,34,14450
+2014,Red Hot Chili Peppers,Southeast,2,67,26902
+2014,Red Hot Chili Peppers,Southeast,4,4,1700
+2014,Red Hot Chili Peppers,Western,2,97,37102
+2014,Red Hot Chili Peppers,Western,4,106,42967
+2014,Red Hot Chili Peppers,Western,5,56,21420
+2014,Red Hot Chili Peppers,Western,6,113,45602
+2014,Red Hot Chili Peppers,Western,9,68,27285
+2014,Red Hot Chili Peppers,Western,11,52,19890
+2012,Yellow Zonkers,Eastern,1,40,10320
+2012,Yellow Zonkers,Eastern,2,81,20898
+2012,Yellow Zonkers,Eastern,4,17,4386
+2012,Yellow Zonkers,Eastern,5,10,2580
+2012,Yellow Zonkers,Eastern,6,39,10062
+2012,Yellow Zonkers,Eastern,7,17,4386
+2012,Yellow Zonkers,Eastern,9,38,9804
+2012,Yellow Zonkers,Eastern,11,35,9030
+2012,Yellow Zonkers,Midwest,1,0,0
+2012,Yellow Zonkers,Midwest,3,36,9288
+2012,Yellow Zonkers,Midwest,4,16,4128
+2012,Yellow Zonkers,Midwest,5,33,8514
+2012,Yellow Zonkers,Midwest,6,2,516
+2012,Yellow Zonkers,Midwest,9,26,6708
+2012,Yellow Zonkers,Midwest,12,11,2838
+2012,Yellow Zonkers,Southeast,1,22,5676
+2012,Yellow Zonkers,Southeast,3,16,4128
+2012,Yellow Zonkers,Southeast,4,26,6708
+2012,Yellow Zonkers,Southeast,6,22,5676
+2012,Yellow Zonkers,Southeast,7,32,8256
+2012,Yellow Zonkers,Southeast,8,47,12126
+2012,Yellow Zonkers,Southeast,9,13,3354
+2012,Yellow Zonkers,Southeast,11,45,11610
+2012,Yellow Zonkers,Southeast,12,37,9546
+2012,Yellow Zonkers,Western,1,21,5418
+2012,Yellow Zonkers,Western,3,44,11352
+2012,Yellow Zonkers,Western,5,28,7224
+2012,Yellow Zonkers,Western,6,39,10062
+2012,Yellow Zonkers,Western,8,68,17544
+2012,Yellow Zonkers,Western,9,68,17544
+2012,Yellow Zonkers,Western,11,23,5934
+2012,Yellow Zonkers,Western,12,37,9546
+2013,Yellow Zonkers,Eastern,1,51,12903
+2013,Yellow Zonkers,Eastern,2,28,7084
+2013,Yellow Zonkers,Eastern,3,33,8349
+2013,Yellow Zonkers,Eastern,4,114,28842
+2013,Yellow Zonkers,Eastern,5,68,17204
+2013,Yellow Zonkers,Eastern,6,35,8855
+2013,Yellow Zonkers,Eastern,9,12,3036
+2013,Yellow Zonkers,Eastern,10,144,36432
+2013,Yellow Zonkers,Midwest,1,53,13409
+2013,Yellow Zonkers,Midwest,2,7,1771
+2013,Yellow Zonkers,Midwest,3,48,12144
+2013,Yellow Zonkers,Midwest,5,38,9614
+2013,Yellow Zonkers,Midwest,9,36,9108
+2013,Yellow Zonkers,Midwest,10,34,8602
+2013,Yellow Zonkers,Southeast,3,33,8349
+2013,Yellow Zonkers,Southeast,4,21,5313
+2013,Yellow Zonkers,Southeast,5,52,13156
+2013,Yellow Zonkers,Southeast,8,24,6072
+2013,Yellow Zonkers,Southeast,10,122,30866
+2013,Yellow Zonkers,Southeast,11,24,6072
+2013,Yellow Zonkers,Western,1,29,7337
+2013,Yellow Zonkers,Western,2,19,4807
+2013,Yellow Zonkers,Western,4,75,18975
+2013,Yellow Zonkers,Western,6,54,13662
+2013,Yellow Zonkers,Western,8,36,9108
+2013,Yellow Zonkers,Western,10,24,6072
+2013,Yellow Zonkers,Western,12,42,10626
+2014,Yellow Zonkers,Eastern,1,3,789
+2014,Yellow Zonkers,Eastern,2,38,8995
+2014,Yellow Zonkers,Eastern,3,11,2893
+2014,Yellow Zonkers,Eastern,6,78,19094
+2014,Yellow Zonkers,Eastern,7,43,11309
+2014,Yellow Zonkers,Eastern,8,41,9705
+2014,Yellow Zonkers,Eastern,9,77,18226
+2014,Yellow Zonkers,Eastern,10,55,13018
+2014,Yellow Zonkers,Eastern,11,60,14202
+2014,Yellow Zonkers,Eastern,12,88,22118
+2014,Yellow Zonkers,Midwest,4,24,6312
+2014,Yellow Zonkers,Midwest,5,24,6312
+2014,Yellow Zonkers,Midwest,6,17,4471
+2014,Yellow Zonkers,Midwest,7,8,2104
+2014,Yellow Zonkers,Midwest,8,10,2630
+2014,Yellow Zonkers,Midwest,9,28,7364
+2014,Yellow Zonkers,Midwest,11,12,3156
+2014,Yellow Zonkers,Southeast,4,24,6312
+2014,Yellow Zonkers,Southeast,9,40,9468
+2014,Yellow Zonkers,Southeast,10,27,7101
+2014,Yellow Zonkers,Southeast,12,71,17305
+2014,Yellow Zonkers,Western,1,72,17437
+2014,Yellow Zonkers,Western,3,17,4471
+2014,Yellow Zonkers,Western,4,62,16306
+2014,Yellow Zonkers,Western,6,31,8153
+2014,Yellow Zonkers,Western,7,46,10993
+2014,Yellow Zonkers,Western,8,12,3156
+2014,Yellow Zonkers,Western,9,106,25353
+2014,Yellow Zonkers,Western,10,55,13018
+2014,Yellow Zonkers,Western,11,37,8758
+2014,Yellow Zonkers,Western,12,21,5523
